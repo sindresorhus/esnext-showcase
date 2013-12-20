@@ -5,6 +5,11 @@
 
 These projects makes use of ES6 features. Dig into their source, learn, and [try out ES6](http://benvie.github.io/continuum/) yourself!
 
+There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that lets you develop with ES6 *today*.
+
+-
+
+
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
 
 > Enables support for typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
@@ -130,6 +135,7 @@ These projects makes use of ES6 features. Dig into their source, learn, and [try
 - [A Few New Things Coming To JavaScript](http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/)
 - [Author In ES6, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
 - [ES3 \<3 block scoped const and let => defs.js](http://blog.lassus.se/2013/05/defsjs.html)
+- [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
 
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
