@@ -1,5 +1,7 @@
 ## ES.next showcase
 
+<img src="http://i.imgur.com/yy1sACZ.png" width="120" align="right">
+
 > Showcasing real-world usage of [ECMAScript 6 features](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) in today's libraries/frameworks/projects/etc
 
 
