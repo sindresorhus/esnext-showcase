@@ -12,11 +12,19 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 -
 
 
+### [watchtower.js](https://github.com/angular/watchtower.js)
+
+> ES6 Port of Angular.dart change detection code
+
+- Features: [Modules][], Classes
+
+
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
 
 > Enables support for typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
 
 - Features: [Proxy][]
+
 
 ### [negative-array](https://github.com/sindresorhus/negative-array)
 
@@ -24,11 +32,13 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 - Features: [Proxy][]
 
+
 ### [stevia](https://github.com/traviskaufman/stevia)
 
 > Natural sweetening for JavaScript objects using ES6 Proxy
 
 - Features: [Proxy][]
+
 
 ### [Backbone TodoMVC + ECMAScript 6](https://github.com/addyosmani/traceur-todomvc/)
 
@@ -101,12 +111,14 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [const](http://wiki.ecmascript.org/doku.php?id=harmony:const) immutability support only, **no block scope**
 - Transpiler: [varify](https://github.com/thlorenz/varify)
 
+
 ### [catiline](https://github.com/calvinmetcalf/catiline)
 
 > Small library for using workers in the browser.
 
 - Features: [Block Scoped Bindings (const, let)][block-scoped-bindings]
 - Transpiler: [defs.js][]
+
 
 ### [jQuery Evergreen](https://github.com/webpro/jquery-evergreen)
 
@@ -115,12 +127,12 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Modules][]
 - Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
 
+
 ## Features
 
 - [Modules][]
 - [Block Scoped Bindings][block-scoped-bindings]
 - [Proxy][]
-
 
 
 ## Transpilers
@@ -129,6 +141,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ES6 Module Transpiler][es6-module-transpiler]
 - [defs.js][]
 - [Regenerator — Facebook’s ES6 generator transpiler](http://facebook.github.io/regenerator/)
+
 
 ## Reading material
 
