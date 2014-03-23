@@ -16,7 +16,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > ES6 Port of Angular.dart change detection code
 
-- Features: [Modules][], Classes
+- Features: [Modules][], [Classes][]
 
 
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
@@ -44,7 +44,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > Backbone TodoMVC rewritten using ES6
 
-- Features: [Modules][], [Block Scoped Bindings][block-scoped-bindings], Classes, Spread operator, Arrow functions, Default parameters
+- Features: [Modules][], [Block Scoped Bindings][block-scoped-bindings], [Classes][], Spread operator, Arrow functions, Default parameters
 - Transpiler: [Traceur][traceur]
 
 
@@ -148,6 +148,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Block Scoped Bindings][block-scoped-bindings]
 - [Proxy][]
 - [Generators][]
+- [Classes][]
 
 
 ## Transpilers
@@ -172,6 +173,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
 [proxy]: http://soft.vub.ac.be/~tvcutsem/proxies/
 [generators]: http://wiki.ecmascript.org/doku.php?id=harmony:Generators
+[classes]: http://wiki.ecmascript.org/doku.php?id=strawman:maximally_minimal_classes
 
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
