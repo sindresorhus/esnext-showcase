@@ -128,11 +128,26 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
 
 
+### [Koa](https://github.com/koajs/koa)
+
+> Expressive middleware for node.js using generators to make web applications and APIs more enjoyable to write.
+
+- Features: [Generators][]
+
+
+### [Co](https://github.com/visionmedia/co)
+
+> Generator based flow-control goodness using thunks or promises, letting you write non-blocking code in a nice-ish way.
+
+- Features: [Generators][]
+
+
 ## Features
 
 - [Modules][]
 - [Block Scoped Bindings][block-scoped-bindings]
 - [Proxy][]
+- [Generators][]
 
 
 ## Transpilers
@@ -156,6 +171,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
 [proxy]: http://soft.vub.ac.be/~tvcutsem/proxies/
+[generators]: http://wiki.ecmascript.org/doku.php?id=harmony:Generators
 
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
