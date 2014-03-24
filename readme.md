@@ -12,11 +12,20 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 -
 
 
-### [watchtower.js](https://github.com/angular/watchtower.js)
+### [AngularJS 2.0](http://blog.angularjs.org/2014/03/angular-20.html)
+* [Templating engine](https://github.com/angular/templating)
+* [Dependency Injection](https://github.com/angular/di.js)
+* [HTTP Module](https://github.com/angular/ngHttp)
+* [Change detection](https://github.com/angular/watchtower.js)
+* [Expression parser](https://github.com/angular/expressionist.js)
+* [Logging and profiling](https://github.com/angular/diary.js)
 
-> ES6 Port of Angular.dart change detection code
+
+
+> All code in AngularJS 2 is already being written in ES6
 
 - Features: [Modules][], [Classes][]
+- Transpiler: [Traceur][traceur]
 
 
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
