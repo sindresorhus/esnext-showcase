@@ -24,7 +24,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > All code in AngularJS 2 is already being written in ES6
 
-- Features: [Modules][], [Classes][]
+- Features: [Modules][], [Classes][], [Arrow functions][]
 - Transpiler: [Traceur][traceur]
 
 
@@ -53,7 +53,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > Backbone TodoMVC rewritten using ES6
 
-- Features: [Modules][], [Block Scoped Bindings][block-scoped-bindings], [Classes][], Spread operator, Arrow functions, Default parameters
+- Features: [Modules][], [Block Scoped Bindings][block-scoped-bindings], [Classes][], Spread operator, [Arrow functions][], Default parameters
 - Transpiler: [Traceur][traceur]
 
 
@@ -158,6 +158,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Proxy][]
 - [Generators][]
 - [Classes][]
+- [Arrow functions][]
 
 
 ## Transpilers
@@ -183,6 +184,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [proxy]: http://soft.vub.ac.be/~tvcutsem/proxies/
 [generators]: http://wiki.ecmascript.org/doku.php?id=harmony:Generators
 [classes]: http://wiki.ecmascript.org/doku.php?id=strawman:maximally_minimal_classes
+[arrow functions]: http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax
 
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
