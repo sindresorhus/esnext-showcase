@@ -175,6 +175,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ES6 Module Transpiler][es6-module-transpiler]
 - [defs.js][]
 - [Regenerator — Facebook’s ES6 generator transpiler](http://facebook.github.io/regenerator/)
+- [illusionist][]
 
 
 ## Reading material
@@ -197,6 +198,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
 [defs.js]: https://github.com/olov/defs
+[illusionist]: https://github.com/mirego/illusionist
 
 
 ## License
