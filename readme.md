@@ -28,6 +28,14 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Transpiler: [Traceur][traceur]
 
 
+### [ember.js](https://github.com/emberjs/ember.js/tree/master/packages_es6)
+
+> We'll make modules a first-class citizen, and soon every developer who starts using Ember will also be using ES6 modules.
+
+- Features: [Modules][]
+- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+
+
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
 
 > Enables support for typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
