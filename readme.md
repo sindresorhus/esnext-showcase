@@ -159,6 +159,13 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Generators][]
 
 
+### [Shen](https://github.com/cultofmetatron/Shen)
+
+> Higher order flow control functions for creating generators.
+
+- Features: [Generators][]
+
+
 ## Features
 
 - [Modules][]
