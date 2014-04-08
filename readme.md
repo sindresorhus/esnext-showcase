@@ -186,6 +186,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Author In ES6, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
 - [ES3 \<3 block scoped const and let => defs.js](http://blog.lassus.se/2013/05/defsjs.html)
 - [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
+- [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
