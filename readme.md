@@ -137,13 +137,12 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Transpiler: [defs.js][]
 
 
-### [jQuery Evergreen](https://github.com/webpro/jquery-evergreen)
+### [DOMtastic](https://github.com/webpro/DOMtastic)
 
-> Lean & mean jQuery API for modern browsers.
+> Small & fast DOM and event library for modern browsers.
 
-- Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
-
+- Features: [Modules][], [Arrow functions][], [Spread][], [Default Parameter Values][default-parameter-values]
+- Transpiler: [Traceur][traceur]
 
 ### [Koa](https://github.com/koajs/koa)
 
@@ -174,6 +173,8 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Generators][]
 - [Classes][]
 - [Arrow functions][]
+- [Spread][]
+- [Default Parameter Values][default-parameter-values]
 
 
 ## Transpilers
@@ -202,6 +203,8 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [generators]: http://wiki.ecmascript.org/doku.php?id=harmony:Generators
 [classes]: http://wiki.ecmascript.org/doku.php?id=strawman:maximally_minimal_classes
 [arrow functions]: http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax
+[spread]: http://wiki.ecmascript.org/doku.php?id=harmony:spread
+[default-parameter-values]: http://wiki.ecmascript.org/doku.php?id=harmony:parameter_default_values
 
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
