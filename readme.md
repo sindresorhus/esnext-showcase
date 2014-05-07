@@ -144,6 +144,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Modules][], [Arrow functions][], [Spread][], [Default Parameter Values][default-parameter-values]
 - Transpiler: [Traceur][traceur]
 
+
 ### [Koa](https://github.com/koajs/koa)
 
 > Expressive middleware for node.js using generators to make web applications and APIs more enjoyable to write.
@@ -161,6 +162,13 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 ### [Shen](https://github.com/cultofmetatron/Shen)
 
 > Higher order flow control functions for creating generators.
+
+- Features: [Generators][]
+
+
+### [task.js](https://github.com/mozilla/task.js)
+
+> Beautiful concurrency for JavaScript.
 
 - Features: [Generators][]
 
