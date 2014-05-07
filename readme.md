@@ -19,12 +19,13 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 * [Change detection](https://github.com/angular/watchtower.js)
 * [Expression parser](https://github.com/angular/expressionist.js)
 * [Logging and profiling](https://github.com/angular/diary.js)
+* [Deferred/Promise](https://github.com/angular/deferred)
 
 
 
 > All code in AngularJS 2 is already being written in ES6
 
-- Features: [Modules][], [Classes][], [Arrow functions][]
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
 
@@ -183,6 +184,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Arrow functions][]
 - [Spread][]
 - [Default Parameter Values][default-parameter-values]
+- [Promises][]
 
 
 ## Transpilers
@@ -213,6 +215,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [arrow functions]: http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax
 [spread]: http://wiki.ecmascript.org/doku.php?id=harmony:spread
 [default-parameter-values]: http://wiki.ecmascript.org/doku.php?id=harmony:parameter_default_values
+[promises]: http://wiki.ecmascript.org/doku.php?id=strawman:promises
 
 [traceur]: https://github.com/google/traceur-compiler
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
