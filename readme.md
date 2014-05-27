@@ -29,7 +29,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Transpiler: [Traceur][traceur]
 
 
-### [ember.js](https://github.com/emberjs/ember.js/tree/master/packages_es6)
+### [ember.js](https://github.com/emberjs/ember.js/tree/master/packages)
 
 > We'll make modules a first-class citizen, and soon every developer who starts using Ember will also be using ES6 modules.
 
