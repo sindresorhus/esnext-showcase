@@ -11,17 +11,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 -
 
-
 ### [AngularJS 2.0](http://blog.angularjs.org/2014/03/angular-20.html)
-* [Templating engine](https://github.com/angular/templating)
-* [Dependency Injection](https://github.com/angular/di.js)
-* [HTTP Module](https://github.com/angular/ngHttp)
-* [Change detection](https://github.com/angular/watchtower.js)
-* [Expression parser](https://github.com/angular/expressionist.js)
-* [Logging and profiling](https://github.com/angular/diary.js)
-* [Deferred/Promise](https://github.com/angular/deferred)
-
-
 
 > All code in AngularJS 2 is already being written in ES6
 
@@ -33,7 +23,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > We'll make modules a first-class citizen, and soon every developer who starts using Ember will also be using ES6 modules.
 
-- Features: [Modules][]
+- Features: [Modules][], [Promises][]
 - Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
 
 
@@ -70,7 +60,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > Adds an Ember tab to chrome dev tools that allows you to inspect Ember objects in your application.
 
-- Features: [Modules][]
+- Features: [Modules][], [Promises][]
 - Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
 
 
@@ -113,7 +103,6 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Modules][]
 - Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
 
-
 ### [defs.js][]
 
 > Static scope analysis and transpilation of ES6 block scoped const and let variables to ES3 vars
@@ -121,6 +110,54 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Block Scoped Bindings (const, let)][block-scoped-bindings]
 - Transpiler: [defs.js][]
 
+###[Templating](https://github.com/angular/templating)
+
+> The templating engine for Angular 2.0.
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[di](https://github.com/angular/di.js)
+
+> Dependency Injection Framework for the future generations...
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[ngHttp](https://github.com/angular/ngHttp)
+
+> Data Persistence
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[Watchtower](https://github.com/angular/watchtower.js)
+
+> Super-fast change detection
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[Expressionist](https://github.com/angular/expressionist.js)
+
+> Expression parser
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[Diary](https://github.com/angular/diary.js)
+
+> Flexible logging and profiling library for JavaScript
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
+
+###[Deferred](https://github.com/angular/deferred)
+
+> This project makes available an ES6 Deferred implementation, using ES6 Promises
+
+- Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
+- Transpiler: [Traceur][traceur]
 
 ### [varify](https://github.com/thlorenz/varify)
 
