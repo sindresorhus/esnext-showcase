@@ -213,7 +213,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 ### [aleph-box](https://github.com/sudodoki/aleph-box)
 
-> Wrapper for [Chance.js](http://chancejs.com/) that let's you get random properties without any explicit method calls, i.e.: `alephInstance.children.map(function(c){ return c.name});`.
+> Wrapper for [Chance.js](http://chancejs.com/) that let's you get random properties without any explicit method calls, i.e.: `alephInstance.children.map(function (c) { return c.name; });`.
 
 - Features: [Proxy][]
 
