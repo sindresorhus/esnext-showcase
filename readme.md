@@ -234,6 +234,8 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 ## Transpilers
 
 - [Traceur][]
+- [esnext][]
+- [6to5][]
 - [ES6 Module Transpiler][es6-module-transpiler]
 - [defs.js][]
 - [Regenerator — Facebook’s ES6 generator transpiler](http://facebook.github.io/regenerator/)
@@ -263,6 +265,8 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [promises]: http://wiki.ecmascript.org/doku.php?id=strawman:promises
 
 [traceur]: https://github.com/google/traceur-compiler
+[esnext]: https://github.com/square/esnext
+[6to5]: https://github.com/6to5/6to5
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
 [defs.js]: https://github.com/olov/defs
 [illusionist]: https://github.com/mirego/illusionist
