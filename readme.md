@@ -249,6 +249,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ES3 \<3 block scoped const and let => defs.js](http://blog.lassus.se/2013/05/defsjs.html)
 - [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) *(ebook)*
 
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
