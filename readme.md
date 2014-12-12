@@ -252,7 +252,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) *(ebook)*
-
+- [ECMAScript 6 examples for Node.JS](https://github.com/JustinDrake/node-es6-examples)
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
