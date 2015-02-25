@@ -235,7 +235,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 - [Traceur][]
 - [esnext][]
-- [6to5][]
+- [babel][]
 - [ES6 Module Transpiler][es6-module-transpiler]
 - [defs.js][]
 - [Regenerator — Facebook’s ES6 generator transpiler](http://facebook.github.io/regenerator/)
@@ -266,7 +266,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 [traceur]: https://github.com/google/traceur-compiler
 [esnext]: https://github.com/square/esnext
-[6to5]: https://github.com/6to5/6to5
+[babel]: https://github.com/babel/babel
 [es6-module-transpiler]: https://github.com/square/es6-module-transpiler
 [defs.js]: https://github.com/olov/defs
 [illusionist]: https://github.com/mirego/illusionist
