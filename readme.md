@@ -253,6 +253,11 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) *(ebook)*
 - [ECMAScript 6 examples for Node.JS](https://github.com/JustinDrake/node-es6-examples)
+- [ES6 — let + const](https://medium.com/@mrzepinski/let-const-35bca3b4a3c6)
+- [ES6 — arrow functions](https://medium.com/@mrzepinski/arrow-functions-bb08eeb11667)
+- [ES6 — default + rest + spread](https://medium.com/@mrzepinski/default-rest-spread-f3ab0d2e0a5e)
+- [ES6 — destructuring](https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a)
+- [ES6 — strings](https://medium.com/@mrzepinski/es6-string-bae03d964d43)
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
