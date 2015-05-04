@@ -258,6 +258,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ES6 — default + rest + spread](https://medium.com/@mrzepinski/default-rest-spread-f3ab0d2e0a5e)
 - [ES6 — destructuring](https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a)
 - [ES6 — strings](https://medium.com/@mrzepinski/es6-string-bae03d964d43)
+- [ES6 — iterators](https://medium.com/@mrzepinski/es6-iterators-4afec026f70a)
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
