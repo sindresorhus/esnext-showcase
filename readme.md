@@ -194,7 +194,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 > Generator based flow-control goodness using thunks or promises, letting you write non-blocking code in a nice-ish way.
 
-- Features: [Generators][]
+- Features: [Generators][], [Promises][]
 
 
 ### [Shen](https://github.com/cultofmetatron/Shen)
