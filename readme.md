@@ -261,6 +261,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ES6 — iterators](https://medium.com/@mrzepinski/es6-iterators-4afec026f70a)
 - [ES6 — generators](https://medium.com/@mrzepinski/es6-generators-4494aa135ad3)
 - [ES6 — classes and inheritance](https://medium.com/@mrzepinski/es6-classes-and-inheritance-607804080906)
+- [ES6 — modules](https://medium.com/@mrzepinski/es6-modules-d5646d1b9a08)
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
