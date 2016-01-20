@@ -13,7 +13,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 ### [AngularJS 2.0](http://blog.angularjs.org/2014/03/angular-20.html)
 
-> All code in AngularJS 2 is already being written in ES6 *(actually AtScript, but it's a superset of ES6)*.
+> All code in AngularJS 2 is already being written in ES6 *(actually TypeScript, but it's a superset of ES6)*.
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
