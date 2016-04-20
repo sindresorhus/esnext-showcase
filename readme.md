@@ -2,18 +2,18 @@
 
 <img src="http://i.imgur.com/yy1sACZ.png" width="120" align="right">
 
-> Showcasing real-world usage of [ECMAScript 6 features](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) in today's libraries/frameworks/projects/etc
+> Showcasing real-world usage of [ECMAScript 2015 features](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) in today's libraries/frameworks/projects/etc
 
 
-These projects make use of ES6 features. Dig into their source, learn, and [try out ES6](http://benvie.github.io/continuum/) yourself!
+These projects make use of ES2015 features. Dig into their source, learn, and [try out ES2015](http://benvie.github.io/continuum/) yourself!
 
-There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that lets you develop with ES6 *today*.
+There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that lets you develop with ES2015 *today*.
 
 -
 
 ### [AngularJS 2.0](http://blog.angularjs.org/2014/03/angular-20.html)
 
-> All code in AngularJS 2 is already being written in ES6 *(actually TypeScript, but it's a superset of ES6)*.
+> All code in AngularJS 2 is already being written in ES2015 *(actually TypeScript, but it's a superset of ES2015)*.
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
@@ -21,36 +21,36 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 ### [ember.js](https://github.com/emberjs/ember.js/tree/master/packages)
 
-> We'll make modules a first-class citizen, and soon every developer who starts using Ember will also be using ES6 modules.
+> We'll make modules a first-class citizen, and soon every developer who starts using Ember will also be using ES2015 modules.
 
 - Features: [Modules][], [Promises][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [tpyo](https://github.com/mathiasbynens/tpyo)
 
-> Enables support for typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
+> Enables support for typos in JavaScript property names. Powered by ES2015 proxies + Levenshtein string distance.
 
 - Features: [Proxy][]
 
 
 ### [negative-array](https://github.com/sindresorhus/negative-array)
 
-> Negative array index support `array[-1]` using ES6 Proxy
+> Negative array index support `array[-1]` using ES2015 Proxy
 
 - Features: [Proxy][]
 
 
 ### [stevia](https://github.com/traviskaufman/stevia)
 
-> Natural sweetening for JavaScript objects using ES6 Proxy
+> Natural sweetening for JavaScript objects using ES2015 Proxy
 
 - Features: [Proxy][]
 
 
 ### [Backbone TodoMVC + ECMAScript 6](https://github.com/addyosmani/traceur-todomvc/)
 
-> Backbone TodoMVC rewritten using ES6
+> Backbone TodoMVC rewritten using ES2015
 
 - Features: [Modules][], [Block Scoped Bindings][block-scoped-bindings], [Classes][], Spread operator, [Arrow functions][], Default parameters
 - Transpiler: [Traceur][traceur]
@@ -61,7 +61,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > Adds an Ember tab to chrome dev tools that allows you to inspect Ember objects in your application.
 
 - Features: [Modules][], [Promises][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [hyperagent.js](https://github.com/weluse/hyperagent)
@@ -69,7 +69,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > A HAL client for JavaScript
 
 - Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [rsvp.js](https://github.com/tildeio/rsvp.js)
@@ -77,7 +77,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > A lightweight library that provides tools for organizing asynchronous code
 
 - Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [router.js](https://github.com/tildeio/router.js)
@@ -85,7 +85,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > A lightweight JavaScript library that builds on route-recognizer to provide an API for handling routes
 
 - Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [json-normalizer](https://github.com/tildeio/json-normalizer)
@@ -93,7 +93,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > A small, lightweight library for normalizing JSON properties and values
 
 - Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 
 ### [htmlbars](https://github.com/tildeio/htmlbars)
@@ -101,11 +101,11 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 > A variant of Handlebars that emits DOM and allows you to write helpers that manipulate live DOM nodes
 
 - Features: [Modules][]
-- Transpiler: [ES6 Module Transpiler][es6-module-transpiler]
+- Transpiler: [ES2015 Module Transpiler][es2015-module-transpiler]
 
 ### [defs.js][]
 
-> Static scope analysis and transpilation of ES6 block scoped const and let variables to ES3 vars
+> Static scope analysis and transpilation of ES2015 block scoped const and let variables to ES3 vars
 
 - Features: [Block Scoped Bindings (const, let)][block-scoped-bindings]
 - Transpiler: [defs.js][]
@@ -154,7 +154,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 
 ###[Deferred](https://github.com/angular/deferred)
 
-> This project makes available an ES6 Deferred implementation, using ES6 Promises
+> This project makes available an ES2015 Deferred implementation, using ES2015 Promises
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
@@ -236,9 +236,9 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [Traceur][]
 - [esnext][]
 - [babel][]
-- [ES6 Module Transpiler][es6-module-transpiler]
+- [ES2015 Module Transpiler][es2015-module-transpiler]
 - [defs.js][]
-- [Regenerator — Facebook’s ES6 generator transpiler](http://facebook.github.io/regenerator/)
+- [Regenerator — Facebook’s ES2015 generator transpiler](http://facebook.github.io/regenerator/)
 - [illusionist][]
 
 
@@ -247,13 +247,13 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - [ECMAScript 6 specification](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 - [ECMAScript 6 compatibility table](http://kangax.github.io/es5-compat-table/es6/)
 - [A Few New Things Coming To JavaScript](http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/)
-- [Author In ES6, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
+- [Author In ES2015, Transpile To ES5 As A Build-step: A Workflow For Grunt](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
 - [ES3 \<3 block scoped const and let => defs.js](http://blog.lassus.se/2013/05/defsjs.html)
-- [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
+- [An aggregation of tooling for ES2015](https://github.com/addyosmani/es6-tools)
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) *(ebook)*
 - [ECMAScript 6 examples for Node.JS](https://github.com/JustinDrake/node-es6-examples)
-- [ECMASCript 2015 series on @medium](https://medium.com/ecmascript-2015) 
+- [ECMASCript 2015 series on @medium](https://medium.com/ecmascript-2015)
 
 [modules]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 [block-scoped-bindings]: http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
@@ -268,7 +268,7 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 [traceur]: https://github.com/google/traceur-compiler
 [esnext]: https://github.com/square/esnext
 [babel]: https://github.com/babel/babel
-[es6-module-transpiler]: https://github.com/square/es6-module-transpiler
+[es2015-module-transpiler]: https://github.com/square/es6-module-transpiler
 [defs.js]: https://github.com/olov/defs
 [illusionist]: https://github.com/mirego/illusionist
 
