@@ -110,49 +110,49 @@ There's already a lot of [tooling](https://github.com/addyosmani/es6-tools) that
 - Features: [Block Scoped Bindings (const, let)][block-scoped-bindings]
 - Transpiler: [defs.js][]
 
-###[Templating](https://github.com/angular/templating)
+### [Templating](https://github.com/angular/templating)
 
 > The templating engine for Angular 2.0.
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[di](https://github.com/angular/di.js)
+### [di](https://github.com/angular/di.js)
 
 > Dependency Injection Framework for the future generations...
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[ngHttp](https://github.com/angular/ngHttp)
+### [ngHttp](https://github.com/angular/ngHttp)
 
 > Data Persistence
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[Watchtower](https://github.com/angular/watchtower.js)
+### [Watchtower](https://github.com/angular/watchtower.js)
 
 > Super-fast change detection
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[Expressionist](https://github.com/angular/expressionist.js)
+### [Expressionist](https://github.com/angular/expressionist.js)
 
 > Expression parser
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[Diary](https://github.com/angular/diary.js)
+### [Diary](https://github.com/angular/diary.js)
 
 > Flexible logging and profiling library for JavaScript
 
 - Features: [Modules][], [Classes][], [Arrow functions][], [Promises][]
 - Transpiler: [Traceur][traceur]
 
-###[Deferred](https://github.com/angular/deferred)
+### [Deferred](https://github.com/angular/deferred)
 
 > This project makes available an ES2015 Deferred implementation, using ES2015 Promises
 
